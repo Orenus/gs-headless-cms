@@ -8,6 +8,7 @@ I turned to evaluating ready made solutions from the obvious reasons of not want
 - Defining a scheme and relationships
 - Creating new content items
 - Updating drafts and published items
+- Localization
 - Visualizing the current items state (draft, published, unpublished and deleted)
 - Managing content revisions
 - Roles and Permissions
@@ -28,3 +29,6 @@ I ended up writing my own using a combination of Google Spreadsheet and a simple
 I will soon release it as an Open Source for all to use ( + examples and use cases)
 
 If you wish to be notified, follow **[this repo ](https://github.com/Orenus/gs-headless-cms)**for announcements + instructions + code 
+
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x6ub2yug204gkvcs5i3r.png)
