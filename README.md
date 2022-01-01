@@ -1,6 +1,6 @@
 The headless CMS arena is flourishing with plethora of solutions, some of are SaaS'ed some are hybrid (cloud + on premise), some are Open Source, some are not even freemium to try-before-you-buy... it lead me to try those 2:
 
-[Stripi](https://strapi.io/) - Open Source, On premise + Cloud.
+[Strapi](https://strapi.io/) - Open Source, On premise + Cloud.
 [GraphCMS](https://graphcms.com/) - Proprietary SaaS
 
 I turned to evaluating ready made solutions from the obvious reasons of not wanting to reinvent the wheel, accelerating my delivery pace and **most of all** - providing a convenient yet a productive way for my system's users (internal and later even external/public) to handle content management;
