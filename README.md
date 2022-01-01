@@ -1,6 +1,7 @@
 The headless CMS arena is flourishing with plethora of solutions, some of are SaaS'ed some are hybrid (cloud + on premise), some are Open Source, some are not even freemium to try-before-you-buy... it lead me to try those 2:
 
 [Strapi](https://strapi.io/) - Open Source, On premise + Cloud.
+
 [GraphCMS](https://graphcms.com/) - Proprietary SaaS
 
 I turned to evaluating ready made solutions from the obvious reasons of not wanting to reinvent the wheel, accelerating my delivery pace and **most of all** - providing a convenient yet a productive way for my system's users (internal and later even external/public) to handle content management;
@@ -24,11 +25,21 @@ I ended up writing my own using a combination of Google Spreadsheet and a simple
 
 
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/exb347hnyws3v9yi1xhh.png)
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/exb347hnyws3v9yi1xhh.png)_Fig 1: Content management view_
  
+
 I will soon release it as an Open Source for all to use ( + examples and use cases)
 
 If you wish to be notified, follow **[this repo ](https://github.com/Orenus/gs-headless-cms)**for announcements + instructions + code 
 
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x6ub2yug204gkvcs5i3r.png)
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x6ub2yug204gkvcs5i3r.png)_Fig 2: Schema management view_
+
+
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tmib9odxdei3j7k0ol4r.png)_Fig 3: Google AppScript Dashboard_
+
+
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/34etzriyib6jqkmf011k.png)_Fig 4: Google AppScript Logs view_
+
